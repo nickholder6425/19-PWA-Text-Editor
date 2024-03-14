@@ -23,6 +23,12 @@ Run the following command on your CLI to run the application:
 
 ![Video Demo]()
 
+![Screenshot](/images/19-PWA%20Text%20Editor%20VS%20Code%20Screenshot.png)
+
+![Screenshot](/images/JATE%20Screenshoot.png)
+
+![Screenshot](/images/Render%20Dashboard.png)
+
 ## License
   ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
